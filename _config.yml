@@ -1,9 +1,9 @@
 # 基本设置
 title: 计算箱子尺寸
-email: your-email@example.com
+email: dylan@prostpharma.com
 description: 使用遗传算法计算箱子的尺寸
 baseurl: "" # 如果您的网站位于子目录中，请设置此项，例如 "/myblog"
-url: "http://your-domain.com"
+url: ""
 
 # 构建设置
 markdown: kramdown
