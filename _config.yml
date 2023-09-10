@@ -1,0 +1,24 @@
+# 基本设置
+title: 计算箱子尺寸
+email: your-email@example.com
+description: 使用遗传算法计算箱子的尺寸
+baseurl: "" # 如果您的网站位于子目录中，请设置此项，例如 "/myblog"
+url: "http://your-domain.com"
+
+# 构建设置
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title.html
+paginate: 10
+
+# 排除文件
+exclude:
+  - app.py
+
+# 插件
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# 主题
+theme: minima
+
